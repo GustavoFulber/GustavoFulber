@@ -9,11 +9,12 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofulber&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofulber&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofulber&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofulber&layout=compact&theme=radical&langs_count=8)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavofulber&theme=radical)  
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavofulber&theme=radical)  
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=gustavofulber&theme=radical)  
+
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavofulber&theme=radical&period=year)  
+![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavofulber&theme=radical&area=true&hide_border=true&custom_title=Contributions%20Last%20365%20Days) 
 
 ---
 
