@@ -9,16 +9,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofulber&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofulber&layout=compact&theme=radical&langs_count=8)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavofulber&theme=radical)  
-
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavofulber&theme=radical&period=year)  
-
----
-
 🎯 **Focus Areas**:
 - Building scalable and efficient systems.
 - Mentoring and fostering growth within teams.
