@@ -1,4 +1,4 @@
-![GitHub Contributions](https://raw.githubusercontent.com/gustavofulber/imagens/main/github-contributions.png)
+[![GitHub Contributions](https://github.githubassets.com/images/modules/profile/profile-contributions.svg)](https://github.com/gustavofulber))
 
 # 👋 Hello, I'm Gustavo H. Fulber!
 
