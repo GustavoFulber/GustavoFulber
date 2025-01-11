@@ -1,4 +1,4 @@
-[![GitHub Contributions](https://github.githubassets.com/images/modules/profile/profile-contributions.svg)](https://github.com/gustavofulber)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoFulber&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 # 👋 Hello, I'm Gustavo H. Fulber!
 
