@@ -1,3 +1,5 @@
+![GitHub Contributions](https://raw.githubusercontent.com/gustavofulber/imagens/main/github-contributions.png)
+
 # 👋 Hello, I'm Gustavo H. Fulber!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gustavofulber&color=blueviolet&style=flat-square)  
