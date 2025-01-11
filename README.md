@@ -14,7 +14,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavofulber&theme=radical)  
 
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavofulber&theme=radical&period=year)  
-![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustavofulber&theme=radical&area=true&hide_border=true&custom_title=Contributions%20Last%20365%20Days) 
 
 ---
 
